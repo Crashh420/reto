@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>NeoTech</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!--Inicio barra de navegacion-->
+	<div>
+		<nav>
+			<div class="logo">
+				<img src="pata.png" alt="icono">
+			</div>
+			<div>
+			<ul class="productos">
+				<li class="desplegable"><a href="#computadoras">Computadoras</a>
+				<ul class="subproductos">
+					<li><a href="#baja">Gama Baja</a></li>
+					<li><a href="#media">Gama media</a></li>
+					<li><a href="#alta">Gama alta</a></li>
+				</ul>
+				</li>
+				<li class="desplegable"><a href="#componentes">Componentes</a>
+				<ul class="subproductos">
+					<li><a href="#procesador">Procesador</a></li>
+					<li><a href="#ram">Ram</a></li>
+					<li><a href="#discos">Discos Duros</a></li>
+					<li><a href="#board">MotherBoard</a></li>
+					<li><a href="#fuente">Fuente de poder</a></li>
+				</ul>
+				</li>
+				<li class="desplegable"><a href="#perifericos">Perifericos</a>
+				<ul class="subproductos">
+					<li><a href="#mouse">Mouse</a></li>
+					<li><a href="#teclado">Teclados</a></li>
+					<li><a href="#head">Headsets</a></li>
+					<li><a href="#pad">MousePad</a></li>
+				</ul>
+				</li>
+				<li class="desplegable"><a href="#contacto">Consolas</a>
+				<ul class="subproductos">
+					<li><a href="#play4">PlayStation </a></li>
+					<li><a href="#play5">Xbox</a></li>
+					<li><a href="#aplay5p">Nintendo</a></li>
+				</ul>
+				</li>
+				<li class="desplegable"><a href="#">Video</a>
+				<ul class="subproductos">
+					<li><a href="##">Monitores</a></li>
+					<li><a href="">Camaras</a></li>
+				</ul>
+				</li>
+			</ul>
+			</div>
+			<div class="compra">
+				<button class="comprab"><img src="carro2.png" alt=""></button>
+			</div>
+		</nav>
+	</div>
+<!--Fin barra de navegacion-->
+
+<!--Incio Pagina de componente-->
+<main>
+    <div>
+        <img src="https://compugamercol.com/wp-content/uploads/2023/09/XPG-HUNTER-1.jpg" alt="">
+		<h3>Ram</h3>
+		<p>8gb</p>
+		<p>8gb x2 </p>
+		<p>16gb</p>
+		<p>16gb x2</p>
+		<button class="carrito">Añadir al carrito</button>
+    </div>
+    <div>
+        <img src="https://www.apcomputadores.com/wp-content/uploads/2022/09/Disco-Duro-Solido-SATA-SSD-240GB-KINGSTON-A400.jpg" alt="">	
+		<h3>Almacenamiento</h3>
+		<p>SSD</p>
+		<p>M.2</p>
+		<button class="carrito">Añadir al carrito</button>
+    </div>
+    <div>
+        <img src="https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2608523-amd-ryzen-8000-series-processor-product.jpg" alt="">
+		<img src="https://coolboxpe.vtexassets.com/arquivos/ids/347308-800-450?v=638441242295900000&width=800&height=450&aspect=true" alt="">
+        <h3>Procesadores</h3>
+		<p>Ryzen</p>
+		<p>Intel</p>
+		<p>Progunta por tu procesador preferido y te brindaremos toda la informacion al respecto</p>
+        <button class="carrito">Añadir al carrito</button>
+    </div>
+	<div>
+        <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ada/graphics-cards/geforce-ada-4090-web-og-1200x630@2x.jpg" alt="" height="300">
+		<img src="https://static.gigabyte.com/StaticFile/Image/Global/5ff4e5a4b5394ba9f1a54c22a69ea40d/Product/21476/Png" alt="" height="300">
+        <h3>Grafica</h3>
+		<p>Nvidia</p>
+		<p>Radeon</p>
+		<p>Pregunta por tu preferida</p>
+        <button class="carrito">Añadir al carrito</button>
+    </div>
+	<div>
+        <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-budget-motherboard.png" alt="">
+        <h3>MotherBoards</h3>
+		<p>Ryzen</p>
+		<p>Intel</p>
+		<p>Progunta por tu board(ATX, M, Mini) preferiao y te brindaremos toda la informacion al respecto. </p>
+        <button class="carrito">Añadir al carrito</button>
+    </div>
+	<div>
+        <img src="https://www.mipcparquecentral.com/cdn/shop/files/XPG650BRONCEPYLON.jpg?v=1709573572" alt="">
+        <h3>Fuentes de poder</h3>
+		<p>Pregunta por tus Wats necesarios y certificacion a tu gusto</p>
+        <button class="carrito">Añadir al carrito</button>
+    </div>
+</main>
+<!--Fin Pagina de componentes-->
+</body>
+</html>
