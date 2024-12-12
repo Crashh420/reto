@@ -88,6 +88,20 @@
         <h3>Kz zs10 pro</h3>
         <button class="carrito">Añadir al carrito</button>
     </div>
+	<div>
+        <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-budget-motherboard.png" alt="">
+        <h3>razer viper mini</h3>
+		<p>sensor: optico</p>
+        <button class="carrito">Añadir al carrito</button>
+    </div>
+	<div>
+        <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-budget-motherboard.png" alt="">
+        <h3>Zaopin z1 pro</h3>
+		<p>sensor: paw 3395</p>
+		<p>clics: nodics</p>
+		<p>polinrate: 1k y 4k con dongle</p>
+        <button class="carrito">Añadir al carrito</button>
+    </div>
 </main>
 </body>
 </html>
